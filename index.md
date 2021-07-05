@@ -1,1 +1,2 @@
 # Predicting Kobe Bryant Shots
+[Here](/425ProjectReport.html) you can reach the project which based on Kobe Bryant’s shots during his 20-year career. The goal is, to predict if the basket went in or not according to input variables in the data set such as location, distance, shot type, opponent and so on. There is given train set which is going to be used to build different models and a test set to test the goodness of these models in order to using the one which yields the best predictions.
