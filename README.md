@@ -1,1 +1,2 @@
-# KobeBryantShots
+# Predicting Kobe Bryant Shots
+The goal of the project is, to predict if the Kobe Bryant’s shots during his 20-year career went in or not according to input variables in the data set such as location, distance, shot type, opponent and so on. There is given train set which is going to be used to build different models and a test set to test the goodness of these models in order to using the one which yields the best predictions. Link: https://ilaydatutal.github.io/KobeBryantShots/
